@@ -17,6 +17,9 @@ img {
     border: 5px solid black;
     border-radius: 10px; 
 }
+#imgg{
+    background-color: white;
+}
 
 h1{
     color: #03045E;
